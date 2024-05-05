@@ -19,7 +19,7 @@ En este trabajo integrador el objetivo es analizar las operaciones de un Call Ce
 
   Este trabajo fue realizado integramente con Power Bi para poder aplicar todo lo aprendido en el M5.
 
-  ## 1º Limpieza y validación de los datos
+## 1º Limpieza y validación de los datos
 <div align="justify">
   En primer lugar se comienza con una limpieza de los datos para tener los mismos en la forma más conveniente para poder trabajar de manera eficaz y eficiente, además de descomponer algunas columnas codificadas y crear una tabla calendario.
   No se ahonda mucho en esta parte ya que la lista de  transformaciones está en Power Query dentro de Power BI.
@@ -50,13 +50,14 @@ En este trabajo integrador el objetivo es analizar las operaciones de un Call Ce
   ## Posibles mejoras
 
   <div align="justify">
-  1) - Lo pirmero que habría que mejorar o solucionar es el tema de la prioridad de los clientes. Tratar de llevar a cabo una campaña para registrar con exactitud las prioridades de los clientes para poder destinar recursos en primera medida a los clientes que abonan un fee con lo que se cumpliría con el servicio dado y mejoraría sustancialmente el tiempo de atención de los clientes de alta prioridad para asi lograr una diferencia mas evidente con los clientes regulares.
-
-  2) - Poder completar también aquellos ID de clientes que no están completos ya que muchos están en 0 y son probables clientes por lo que se vio no solo en las métricas sino también en el .txt que informaba sobre el problema.
-
-  3) - Sería muy importante tener información de los empleados y quien atiende cada llamada que llega a servicio para poder tener metricas de los desempeños individuales. Como también tener información mas detallada de los clientes.
     
-  4)  - Destinar más recursos a los horarios donde myor volumen de llamadas se detectan y revisar porque solo 2 VRU funcionaron ya que solo se tiene informacion de 2 de los 6 que había activos.
+1) - Lo pirmero que habría que mejorar o solucionar es el tema de la prioridad de los clientes. Tratar de llevar a cabo una campaña para registrar con exactitud las prioridades de los clientes para poder destinar recursos en primera medida a los clientes que abonan un fee con lo que se cumpliría con el servicio dado y mejoraría sustancialmente el tiempo de atención de los clientes de alta prioridad para asi lograr una diferencia mas evidente con los clientes regulares.
+
+2) - Poder completar también aquellos ID de clientes que no están completos ya que muchos están en 0 y son probables clientes por lo que se vio no solo en las métricas sino también en el .txt que informaba sobre el problema.
+
+3) - Sería muy importante tener información de los empleados y quien atiende cada llamada que llega a servicio para poder tener metricas de los desempeños individuales. Como también tener información mas detallada de los clientes.
+    
+4)  - Destinar más recursos a los horarios donde myor volumen de llamadas se detectan y revisar porque solo 2 VRU funcionaron ya que solo se tiene informacion de 2 de los 6 que había activos.
 
   </div>
   
